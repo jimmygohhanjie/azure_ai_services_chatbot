@@ -1,0 +1,15 @@
+botbuilder-core
+aiohttp
+azure-ai-translation-document 
+azure-core  
+msrest
+asyncio
+requests==2.31.0
+botbuilder-integration-aiohttp>=4.14.0 
+uuid
+azure-ai-textanalytics==5.3.0
+python-dotenv
+azure-ai-language-conversations --pre
+python-dateutil
+config
+botbuilder-dialogs>=4.14.0
